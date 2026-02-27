@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Solar Portfolio – Web Component Demo</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #0a0a0a;
+      color: #f2f2f2;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem 1rem;
+    }
+    h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+    p.subtitle { color: #888; margin-bottom: 2rem; }
+    solar-portfolio { width: 100%; max-width: 1200px; }
+    section { margin-top: 3rem; width: 100%; max-width: 1200px; }
+    section h2 { font-size: 1.25rem; margin-bottom: 1rem; color: #aaa; }
+    pre {
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 1rem;
+      overflow-x: auto;
+      font-size: 0.85rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🌿 Solar Portfolio</h1>
+  <p class="subtitle">Standalone Web Component – No frameworks required</p>
+
+  <!-- Usage: default 3D constellation -->
+  <solar-portfolio
+    data-json="portfolio.json"
+    variant="constellation"
+    accent="#8C52FF"
+  ></solar-portfolio>
+
+  <section>
+    <h2>Static Grid Variant</h2>
+    <solar-portfolio
+      data-json="portfolio.json"
+      variant="grid"
+      accent="#399769"
+    ></solar-portfolio>
+  </section>
+
+  <section>
+    <h2>Usage</h2>
+    <pre><code>&lt;script type="module" src="dist/solar-portfolio.js"&gt;&lt;/script&gt;
+
+&lt;solar-portfolio
+  data-json="portfolio.json"
+  variant="constellation"
+  accent="#8C52FF"
+&gt;&lt;/solar-portfolio&gt;</code></pre>
+  </section>
+
+  <!-- During development, load the TS source directly via Vite -->
+  <!-- For production, replace with dist/solar-portfolio.js -->
+  <script type="module" src="solar-portfolio.ts"></script>
+</body>
+</html>
