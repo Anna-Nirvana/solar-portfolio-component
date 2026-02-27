@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "arctic-tern",
+      "title": "Arctic Tern Expeditions",
+      "description": "Arctic Tern Expeditions is redefining adventure with a unique approach to eco-tourism. Offering intimate journeys for 10-12 passengers on small expedition vessels, ATE navigates through Svalbard and other remote destinations. We elevated their brand, perfected marketing messaging, and boosted sales through thoughtful content strategy—resulting in a fully booked summer 2024 travel season in the High Arctic.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/fb170fbf-c255-4bba-b1da-5d429e3b483d/ATE.png",
+      "tags": ["Brand Elevation", "Marketing Messaging", "Content Strategy"],
+      "url": ""
+    },
+    {
+      "id": "braided-river",
+      "title": "Living River Campaign",
+      "description": "For Braided River Books, the nonprofit advocacy arm of Mountaineers Books, we created the digital campaign for Dave Showalter's 'Living River: The Promise of the Mighty Colorado.' The campaign achieved 10M+ impressions across North America, and the book earned the National Outdoor Book Award for Nature and the Environment.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/acbe1015-0359-4f02-a2be-32a01d6b65c8/BraidedRiver.png",
+      "tags": ["Digital Campaign", "Advocacy", "Visual Storytelling"],
+      "url": ""
+    },
+    {
+      "id": "cmsf",
+      "title": "CMSF National Expansion",
+      "description": "California Marine Sanctuary Foundation, a marine conservation foundation, sought our expertise to evolve from a local to a national thought leader. We provided a strategic overhaul, new brand architecture, messaging framework, and toolkit to help them scale proven conservation protocols internationally.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/fb170fbf-c255-4bba-b1da-5d429e3b483d/ATE.png",
+      "tags": ["Brand Architecture", "Strategic Overhaul", "Messaging Framework"],
+      "url": ""
+    },
+    {
+      "id": "converge",
+      "title": "Converge Strategies",
+      "description": "Converge Strategies, a facilitative consulting firm tackling wicked problems in national security and clean energy, needed to upgrade its thought leadership. We are mapping audiences, planning an industry-leading website redesign and signature content series, and elevating their brand and internal comms capacity.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/acbe1015-0359-4f02-a2be-32a01d6b65c8/BraidedRiver.png",
+      "tags": ["Thought Leadership", "Website Redesign", "Content Strategy"],
+      "url": ""
+    },
+    {
+      "id": "himb",
+      "title": "Restore With Resilience",
+      "description": "The Coral Resilience Lab at HIMB collaborates on groundbreaking coral reef restoration. Using best practices in science communication, evocative field photography, and infographics, we created a comprehensive guidebook detailing the scientific and community engagement aspects. The guidebook enabled enrollment of an additional Maui partner site.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/2f1b5a52-86f9-4418-8ce2-4c46ff8ed3c4/HIMB.png",
+      "tags": ["Science Communication", "Digital Guidebook", "Infographics"],
+      "url": ""
+    },
+    {
+      "id": "tnc",
+      "title": "Innovation Impact Videos",
+      "description": "For The Nature Conservancy's Innovation Division in New York, we produced internal videos showcasing the impact of innovation methodologies on conservation outcomes. Through deep-dive interviews and engaging animations, we highlighted success stories and created an overview that integrated into the organization's onboarding process.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/0851e39e-9d41-4745-9caf-545aec08e109/TNC.png",
+      "tags": ["Video Production", "Animation", "Internal Communications"],
+      "url": ""
+    },
+    {
+      "id": "oya",
+      "title": "Ocean Youth Academy",
+      "description": "Ocean Youth Academy offers digital curricula aligned with Next-Generation Science Standards. We upgraded their flagship course 'The Polar Oceans' with a studio re-shoot of all ten modules, redesigned animated graphics, and interactive digital activities for three grade levels, plus enhanced email and social media marketing.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/7e00facc-41b9-401a-be0c-a250b37ba8ba/OYA.png",
+      "tags": ["Educational Content", "Video Production", "Curriculum Design"],
+      "url": ""
+    },
+    {
+      "id": "orbtl",
+      "title": "ORBTL.AI Rebrand",
+      "description": "For this geospatial startup, we delivered a complete rebranding including website design, social media launch, and science communication guides. The team received a crash course in science communication alongside their fresh new visual identity.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/0700387d-fe57-4577-9477-381e34163354/ORBTL.png",
+      "tags": ["Rebranding", "Website Design", "Science Communication"],
+      "url": ""
+    },
+    {
+      "id": "yuba-trails",
+      "title": "Yuba Trails Stewardship",
+      "description": "Yuba Trails Stewardship aims to complete a fully connected pedestrian infrastructure for hikers and bikers across the Northern Sierras. Solarpunk Studio supported YTS in developing a comprehensive communications plan and a video-based crowdfunding campaign to launch the initiative.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/c39deebf-651d-4b99-9a1f-761b6c8aa7d9/YTS.png",
+      "tags": ["Communications Planning", "Crowdfunding", "Video Campaign"],
+      "url": ""
+    },
+    {
+      "id": "watt",
+      "title": "Grid Enhancing Technologies",
+      "description": "For the WATT Coalition advocating grid enhancing technologies, we provided social media management, website redesign, explainer videos, and brand development. The result: a 35% increase in LinkedIn engagement and more accessible communication of complex technical content.",
+      "image": "https://images.squarespace-cdn.com/content/667dd2009fba3457f02a76d8/0851e39e-9d41-4745-9caf-545aec08e109/TNC.png",
+      "tags": ["Social Media", "Website Redesign", "Explainer Videos"],
+      "url": ""
+    }
+  ]
+}
